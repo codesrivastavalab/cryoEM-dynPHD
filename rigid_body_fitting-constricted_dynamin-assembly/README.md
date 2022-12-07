@@ -1,6 +1,4 @@
-# cryoEM-dynPHD
-
-rigid_body_fitting-constricted_dynamin-assembly (folder)
+# cryoEM-dynPHD/rigid_body_fitting-constricted_dynamin-assembly/
 
 This folder contains the various configurations of dynamin obtained by rigid body fitting of the 
 model 6DLU (https://www.rcsb.org/structure/6DLU) inside the Cryo-EM map of the GMPPCP-bound human dynamin-1 
