@@ -106,8 +106,9 @@ for i in fitted_pdbs:
 		if(k[0:4]=="ATOM" and " CA " in k):
 			x, y, z, resi = float(k[30:38]), float(k[38:46]), float(k[46:54]), int(k[22:26])
 			
-			# Store the data of only PHDomain of the entire dynamin molecule
+			# Store the distance data of only PHDomain of the entire dynamin molecule
 			if(resi>=518 and resi<=630 ):
+				# Evaluate distance of the C-alpha atom from the axis of the assembly
 				dist_data[res, ctr] = ((y-origin[1])**2 + (z-origin[2])**2)**0.5
 				res = res+1
 	ctr = ctr+1
