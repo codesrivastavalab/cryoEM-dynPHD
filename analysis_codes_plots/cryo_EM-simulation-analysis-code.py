@@ -75,7 +75,7 @@ plt.gca().add_artist(plt.legend(handles = [rect1, rect4],loc="upper right",frame
 plt.gca().add_artist(plt.legend(handles = [l3],loc="upper left",fontsize=12,frameon=False))
 plt.legend(handles=[l1],loc="lower right",fontsize=12,bbox_to_anchor=[1.0, -0.03],frameon=False)
 
-# Add plot from cryo-EM analysis in the same plot
+# Add data from cryo-EM analysis in the same plot
 ax2  = ax.twinx()
 
 # Get the list of fitted .pdb files in the current directory
