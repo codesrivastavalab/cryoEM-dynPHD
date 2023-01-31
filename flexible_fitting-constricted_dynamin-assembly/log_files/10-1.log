@@ -1,3 +1,0 @@
-# imodfit> Welcome to iMODFIT v1.51
-/home/krishnakanth/Apps/source-codes/iMODFIT_v1.51_Linux_20190228/bin/imodfit_gcc 6DLU_10-1.pdb ../../emd_7957.map 8 0 -t -o 10-1 --seed 3470552039
-#imodfit> Best filtration method: 2 FT(x10)=110.565s Kernel(x10)=6.434s
