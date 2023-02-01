@@ -4,7 +4,7 @@ This folder contains three folders that contains the raw files generated from fl
 individual dynamin dimers found inside the Cryo-EM map of the GMPPCP-bound human dynamin-1 
 polymer assembled on the membrane in the constricted state{1} (https://www.emdataresource.org/EMD-7957).
 The initial configurations of the individual dimers have been from the output from rigid-body fitting algorithm{2} 
-(https://chaconlab.org/hybrid4em/adp-em). The flexible fitting was performed using iMODFIT tool{3}.
+(https://chaconlab.org/hybrid4em/adp-em). The flexible fitting was performed using iMODFIT tool{3}(https://chaconlab.org/hybrid4em/imodfit).
 
 
 Citations
